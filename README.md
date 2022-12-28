@@ -1,4 +1,4 @@
-## FIFA Copa Do Mundo Catar 2022 Em Números.
+## FIFA Copa Do Mundo Catar 2022 Em Números
 
 - ### Uma análise realizada a partir dos dados coletados na copa do mundo de 2022.
 
